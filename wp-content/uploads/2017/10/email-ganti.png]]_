@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/email-ganti">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/email-ganti";
+		</script>
+
+		<p>You are being redirected to <a href="/email-ganti">/email-ganti</a></p>
+	</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/cover-uditch-megacon">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/cover-uditch-megacon";
+		</script>
+
+		<p>You are being redirected to <a href="/cover-uditch-megacon">/cover-uditch-megacon</a></p>
+	</body>
+</html>

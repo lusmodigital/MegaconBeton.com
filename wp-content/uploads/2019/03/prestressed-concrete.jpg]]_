@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/blog/penggunaan-prestressed-concrete.html">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/blog/penggunaan-prestressed-concrete.html";
+		</script>
+
+		<p>You are being redirected to <a href="/blog/penggunaan-prestressed-concrete.html">/blog/penggunaan-prestressed-concrete.html</a></p>
+	</body>
+</html>

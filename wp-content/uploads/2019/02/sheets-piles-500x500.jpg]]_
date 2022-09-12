@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/sheets-piles-500x500">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/sheets-piles-500x500";
+		</script>
+
+		<p>You are being redirected to <a href="/sheets-piles-500x500">/sheets-piles-500x500</a></p>
+	</body>
+</html>

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/teknis-pemasangan-kanstin-taman">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/teknis-pemasangan-kanstin-taman";
+		</script>
+
+		<p>You are being redirected to <a href="/teknis-pemasangan-kanstin-taman">/teknis-pemasangan-kanstin-taman</a></p>
+	</body>
+</html>

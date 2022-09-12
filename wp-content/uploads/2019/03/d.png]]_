@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/blog/header-slider-03.html">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/blog/header-slider-03.html";
+		</script>
+
+		<p>You are being redirected to <a href="/blog/header-slider-03.html">/blog/header-slider-03.html</a></p>
+	</body>
+</html>

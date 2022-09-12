@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/blog/masjid-indramayu.html">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/blog/masjid-indramayu.html";
+		</script>
+
+		<p>You are being redirected to <a href="/blog/masjid-indramayu.html">/blog/masjid-indramayu.html</a></p>
+	</body>
+</html>

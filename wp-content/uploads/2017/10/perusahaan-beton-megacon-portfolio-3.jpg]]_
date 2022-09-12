@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/blog/portfolio-proyek-megacon-beton-3.html">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/blog/portfolio-proyek-megacon-beton-3.html";
+		</script>
+
+		<p>You are being redirected to <a href="/blog/portfolio-proyek-megacon-beton-3.html">/blog/portfolio-proyek-megacon-beton-3.html</a></p>
+	</body>
+</html>
